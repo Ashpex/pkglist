@@ -2,6 +2,7 @@ acpi
 acpi_call
 alacritty
 alsa-utils
+aria2
 arp-scan
 atool
 base
@@ -12,6 +13,7 @@ binutils
 bleachbit
 bluez
 bluez-utils
+brave-bin
 cmake
 cmatrix
 cmus
@@ -48,7 +50,6 @@ ibus-bamboo
 jq
 keepassxc
 libreoffice-fresh
-librewolf-bin
 libsass
 light
 linux
