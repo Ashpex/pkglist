@@ -85,7 +85,6 @@ openresolv
 openssh
 otf-ipafont
 p7zip
-packettracer
 pamac-aur
 parallel
 pavucontrol
